@@ -1,6 +1,7 @@
 # Hola 👋, soy Constanza Jara
 
-Soy un Ingeniera Comercial  con 3 de experiencia en Analisis de costo e importaciones, donde he demostrado mi capacidad para [logro relevante en tu campo anterior]. Ahora, estoy buscando hacer una transición hacia el área de tecnología. Recientemente, el Bootcamp de Ruby on rails, donde adquirí habilidades en tecnologías relevantes como CSS, HTML, PostgreSQL. Combino mi experiencia previa con mi pasión por la programación, buscando oportunidades que me permitan aplicar mis habilidades y contribuir al éxito de un equipo dinámico en el campo de la tecnología.
+
+Soy Ingeniera Comercial con 4 años de experiencia en análisis de costos e importaciones, donde he demostrado mi capacidad para optimizar procesos y reducir costos. Busco combinar mi experiencia previa con mis nuevas habilidades en tecnología adquiridas en un Bootcamp de Ruby on Rails, que incluyó CSS, HTML, Ruby on Rails y PostgreSQL. Estoy interesada en roles que me permitan desarrollar soluciones tecnológicas para la cadena de suministro, utilizando mi conocimiento en negocios y programación para mejorar la eficiencia y apoyar los objetivos de la organización.
 
 ## 📫 Contacto
 
